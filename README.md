@@ -179,7 +179,7 @@ claude plugin validate .claude-plugin/plugin.json
 - Agent Skills-compatible `SKILL.md` files
 - Codex UI metadata under each skill's `agents/openai.yaml`
 - TanStack Start for React with Vite or Rsbuild
-- Bun 1.3.14 and Node.js 20 or newer for repository validation
+- Bun 1.3.14 and Node.js 22 or 24 for repository validation
 
 TanStack Start currently labels React Server Components as experimental. The plugin treats experimental APIs as version-sensitive and requires verification against the installed framework version.
 
