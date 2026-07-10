@@ -1,0 +1,7 @@
+{
+  "name": "fixture-not-start",
+  "private": true,
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}

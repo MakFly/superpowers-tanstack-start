@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Deployment"
+  short_description: "Prepare portable production deployments"
+  default_prompt: "Use $tanstack-start-deployment to prepare and verify this TanStack Start deployment."

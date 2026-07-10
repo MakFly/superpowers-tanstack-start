@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Workflow"
+  short_description: "Plan and execute TanStack Start changes"
+  default_prompt: "Use $tanstack-start-workflow to plan and implement this TanStack Start task safely."

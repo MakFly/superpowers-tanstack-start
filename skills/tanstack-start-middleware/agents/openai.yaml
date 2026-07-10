@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Middleware"
+  short_description: "Compose middleware and server routes"
+  default_prompt: "Use $tanstack-start-middleware to design this middleware or server route."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Rendering"
+  short_description: "Choose SSR and streaming strategies"
+  default_prompt: "Use $tanstack-start-rendering to choose and verify the rendering strategy."

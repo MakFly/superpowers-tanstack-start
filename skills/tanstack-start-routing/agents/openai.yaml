@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Routing"
+  short_description: "Design typed routes and data loading"
+  default_prompt: "Use $tanstack-start-routing to design or review these TanStack Start routes."

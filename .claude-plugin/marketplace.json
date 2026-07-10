@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "superpowers-tanstack-start",
+  "owner": {
+    "name": "Kevin Aubree",
+    "email": "kev.aubree@gmail.com"
+  },
+  "description": "Open-source Claude Code skills and agents for production TanStack Start applications.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "superpowers-tanstack-start",
+      "source": {
+        "source": "github",
+        "repo": "MakFly/superpowers-tanstack-start"
+      },
+      "description": "Build, review, secure, test, and deploy TanStack Start applications with type-safe, source-linked Claude Code workflows.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Kevin Aubree",
+        "email": "kev.aubree@gmail.com"
+      },
+      "homepage": "https://github.com/MakFly/superpowers-tanstack-start",
+      "repository": "https://github.com/MakFly/superpowers-tanstack-start",
+      "license": "MIT",
+      "keywords": [
+        "tanstack-start",
+        "tanstack-router",
+        "react",
+        "typescript",
+        "full-stack",
+        "server-functions",
+        "ssr",
+        "ai-agents"
+      ],
+      "category": "frameworks",
+      "tags": [
+        "tanstack",
+        "routing",
+        "ssr",
+        "server-functions"
+      ]
+    }
+  ]
+}

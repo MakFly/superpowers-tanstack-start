@@ -1,0 +1,6 @@
+{
+  "name": "fixture-invalid-start",
+  "dependencies": {
+    "@tanstack/react-start": "^1.0.0",
+  }
+}

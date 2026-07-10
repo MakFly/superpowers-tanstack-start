@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Auth"
+  short_description: "Secure sessions and authorization"
+  default_prompt: "Use $tanstack-start-auth to design or audit authentication and authorization."

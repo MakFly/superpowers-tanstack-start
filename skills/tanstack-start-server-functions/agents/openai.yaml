@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Server Functions"
+  short_description: "Build secure typed server functions"
+  default_prompt: "Use $tanstack-start-server-functions to implement this server-side operation safely."

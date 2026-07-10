@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Start Testing"
+  short_description: "Test and debug full-stack behavior"
+  default_prompt: "Use $tanstack-start-testing to create a focused verification strategy for this change."
